@@ -8,4 +8,8 @@ public class App {
 	static void mostrarMensaje() {
 		System.out.println("Bienvenido a la aplicación");
 	}
+	static void despedirse() {
+		System.out.println("Hasta pronto");
+		}
+
 }
