@@ -9,6 +9,6 @@ public class App {
 		System.out.println("Bienvenido a la aplicación");
 	}
 	static void despedirse() {
-		System.out.println("Hasta pronto");
+		System.out.println("ERROR");
 		}
 }
