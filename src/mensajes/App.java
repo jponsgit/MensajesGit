@@ -11,5 +11,4 @@ public class App {
 	static void despedirse() {
 		System.out.println("Hasta pronto");
 		}
-
 }
