@@ -6,7 +6,7 @@ public class App {
 	}
 	
 	static void mostrarMensaje() {
-		System.out.println("Sistema listo para operar");
+		System.out.println("Sistema listo para operar - modo depuración activo");
 	}
 
 }
