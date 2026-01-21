@@ -6,6 +6,6 @@ public class App {
 	}
 	
 	static void mostrarMensaje() {
-		System.out.println("Mensaje inicial");
+		System.out.println("Bienvenido a MensajesGit");
 	}
 }
