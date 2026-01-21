@@ -6,9 +6,7 @@ public class App {
 	}
 	
 	static void mostrarMensaje() {
-		System.out.println("Bienvenido a la aplicación");
+		System.out.println("Sistema listo para operar");
 	}
-	static void despedirse() {
-		System.out.println("ERROR");
-		}
+
 }
